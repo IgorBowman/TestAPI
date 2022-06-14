@@ -8,7 +8,6 @@ from api.serializers import (
     UserSerializer,
     CurrentUserSerializer,
     CurrentUsersPUTCHSerializer,
-    CitySerializer,
     PrivateListUsersSerializer,
     PrivateGETUsersSerializer,
 )

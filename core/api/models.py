@@ -1,6 +1,6 @@
 from django.contrib.auth.hashers import make_password
 from django.db import models
-from django.contrib.auth.models import User, UserManager, AbstractUser
+from django.contrib.auth.models import UserManager, AbstractUser
 
 
 class CitiesHintModel(models.Model):
