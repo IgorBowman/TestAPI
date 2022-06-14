@@ -52,7 +52,7 @@ class CitySerializer(serializers.ModelSerializer):
         fields = ('city',)
 
 
-class PrivateLISTUsersSerializer(serializers.ModelSerializer):
+class PrivateListUsersSerializer(serializers.ModelSerializer):
     """Serializer data about users for admin"""
 
     class Meta:
