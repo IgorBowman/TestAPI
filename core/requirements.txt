@@ -7,6 +7,7 @@ Django==4.0.5
 djangorestframework==3.13.1
 drf-yasg==1.20.0
 environs==9.5.0
+Faker==13.13.0
 idna==3.3
 inflection==0.5.1
 itypes==1.2.0
@@ -16,11 +17,13 @@ marshmallow==3.16.0
 packaging==21.3
 psycopg2==2.9.3
 pyparsing==3.0.9
+python-dateutil==2.8.2
 python-dotenv==0.20.0
 pytz==2022.1
 requests==2.28.0
 ruamel.yaml==0.17.21
 ruamel.yaml.clib==0.2.6
+six==1.16.0
 sqlparse==0.4.2
 tzdata==2022.1
 uritemplate==4.1.1
