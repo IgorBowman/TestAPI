@@ -21,5 +21,6 @@ pip install -r requirements.txt
 ```
 
 ## Запуск
-
+```
 python manage.py runserver
+```
